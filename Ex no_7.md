@@ -1,5 +1,5 @@
 # EX 7  C PROGRAM TO PRINT A RIGHT TRIANGLE STAR PATTERN USING NESTED FOR LOOP
-## DATE:
+## DATE:28/04/2025
 ## AIM:
 To write a C Program to Print a right triangle star Pattern
 
