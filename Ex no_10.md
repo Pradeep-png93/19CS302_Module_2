@@ -1,5 +1,5 @@
 # EX 10 C PROGRAM TO FIND FACTORIAL OF THE GIVEN NUMBER
-## DATE:
+## DATE:28/04/2025
 ## AIM:
 To write a C program to find the factorial of a given number.
 
